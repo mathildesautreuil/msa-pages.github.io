@@ -9,6 +9,9 @@ layout: page
 </div>
   <br/>
 
+
+I am currently working **Biomarker statistician** in the Boston area for Soladis Inc. (dba [EFOR group](https://efor-group.com/en/)), a consulting company specializing in life sciences (MedTech, Biotech, and the pharmaceutical industry). In my role, I support the Biomarker division within the Biomarker Statistics department at [Sanofi](https://www.sanofi.us/en/our-company).
+
 In February 2022, I joined as **engineer** the [BU Omics](https://www.soladisomics.fr/) of [Soladis Group by Efor](https://www.soladis.com/). Soladis is a group specialized in managing projects around data, and the BU Omics handle the bioinformatics and biostatistics analysis of various field data. I work with [Servier](https://www.servier.fr/), an international pharmaceutic group. I aim to support the quantitative pharmacology department.
 
 Before, I was a **research engineer** within the Statistics and genome of the [LaMME](http://www.math-evry.cnrs.fr/welcome){:target="\_blank"} at Evry University and the [Gnet team](https://ips2.u-psud.fr/en/research/pmin-department-plant-microbe-interactions-and-networks-biotic-interactions/gnet-genomics-networks/team-gnet-m-l-martin-magniette.html) of the IPS2 (Plant institute of Paris-Saclay). My research work consists to detect PPR footprints by using machine learning methods at Arabidopsis Thaliana.
