@@ -9,11 +9,17 @@ title: Contact
 
     <br/>
     <br/><br/><br/>
-soon<br>
-  <br/>
+
+Mathilde SAUTREUIL 
+BIOMARKER BIOSTATISTICS 
+Cell: +33 6 19 97 91 24 / +1 617-460-0564 
+msautreuil@soladis.fr
+1 Broadway, Cambridge, MA 02142, USA
+www.efor-group.com<br>
 
   <br/>
-  <br/>
+
+  <br/><br/>
 
 
   <span class = 'glyphicon glyphicon-phone'></span> +33 (0)6 19 97 91 24  <br/>
