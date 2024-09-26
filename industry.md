@@ -8,7 +8,7 @@ layout: page
 
 
 <div class="text-center">
-  <h2>  SANOFI | 12 months | Biomarker statistician </h2>
+  <h3>  SANOFI | 12 months | Biomarker statistician </h3>
     </div>
 
 
@@ -60,9 +60,10 @@ I am supporting the biomarker team of a pharmaceutical global company for early 
    - Deliverables: Rmarkdow reports, ppt presentation, visualizations
 
 
+--------------------------------------------------------------------------
 
 <div class="text-center">
-  <h2>  SERVIER | 18 months | Biomarker Biostatistician and App developer </h2>
+  <h3>  SERVIER | 18 months | Biomarker Biostatistician and App developer </h3>
     </div>
 
 I am supporting the biomarker team of a pharmaceutical global company for early phase development.
