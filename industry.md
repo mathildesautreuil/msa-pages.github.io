@@ -14,6 +14,8 @@ layout: page
 
 I am supporting the biomarker team of a pharmaceutical global company for early phase development.
 
+### PROJECT DETAILS
+
 * Exploratory analysis
    - Study of the Treg activation to validate a potential therapeutic target:
    - DNA-methylation analysis:
@@ -31,10 +33,10 @@ I am supporting the biomarker team of a pharmaceutical global company for early 
        - Deconvolution analysis with xCell and cibersort
        - Validation of interest signatures (Tregs)
        
-*	Data analysis
-	  - Statistical analysis plan, analysis, and reporting for genomic datasets:
-      - RNASeq, gene expression, Olink data (proteomics)
-      - Deconvolution analysis
+* Data analysis
+    - Statistical analysis plan, analysis, and reporting for genomic datasets:
+  	- RNASeq, gene expression, Olink data (proteomics)
+  	- Deconvolution analysis
     - Performed deconvolution analyses to evaluate the cell composition on different datasets.
        - Use of xCell and Cibersort methods
        - Benchmarked signature analysis methods on a toy dataset to select the best method for further analysis.
@@ -54,7 +56,7 @@ I am supporting the biomarker team of a pharmaceutical global company for early 
 
 * TECHNICAL ENVIRONMENT: R
 
-* Success:
+## Success:
    - Deliverables: Rmarkdow reports, ppt presentation, visualizations
 
 
@@ -65,37 +67,38 @@ I am supporting the biomarker team of a pharmaceutical global company for early 
 
 I am supporting the biomarker team of a pharmaceutical global company for early phase development.
 
-* Project details
-  - Development of a ML model to predict human hepatoxicity of compounds (from tidymodels R package)
-     - Benchmarking of different models of ML (Random Forest, Logistic model, XGBosost, NaiveBayes, SVM linear and stacking) using Cross-Validation and bootstrap approaches
-     - Implementation of final best model (publication in progress)
+### PROJECT DETAILS
+
+* Development of a ML model to predict human hepatoxicity of compounds (from tidymodels R package)
+   - Benchmarking of different models of ML (Random Forest, Logistic model, XGBosost, NaiveBayes, SVM linear and stacking) using Cross-Validation and bootstrap approaches
+   - Implementation of final best model (publication in progress)
    
-   - Creation of Rshiny application to predict human hepatoxicity of compounds
-     - Development of a Shiny application for the Tox team to use the developed model to predict human hepatoxicity of new compounds easily
+* Creation of Rshiny application to predict human hepatoxicity of compounds
+   - Development of a Shiny application for the Tox team to use the developed model to predict human hepatoxicity of new compounds easily
        - Discussion with the TOX team about the visualizations, outputs (plots, tables)
        - Updating functions of the RShiny application regarding the team’s feedback
        
-   - Exploratory analysis
-      - Use of statistical methods to check the potential interest of biomarkers
+* Exploratory analysis
+   - Use of statistical methods to check the potential interest of biomarkers
          - Identification of gene signature and associated pathway to describe the treatment’s effect in immunology
-      - Validation of interest signatures
+   - Validation of interest signatures
          - Signature analysis in interest disease in immunology
-      - Indication ranking in oncology
+   - Indication ranking in oncology
          - Behavior of interest signature in different Databases (such as TCGA and MET1000)
          
-   - Data analysis
-      - Cytokines
-        - Performing both intra- and inter-donor analyses to compare the treatments and the environment setting in immuno-oncology
-      - Deconvolution analysis in immune oncology
+* Data analysis
+    - Cytokines
+     	- Performing both intra- and inter-donor analyses to compare the treatments and the environment setting in immuno-oncology
+    - Deconvolution analysis in immune oncology
         - Performing deconvolution analyses to evaluate the cell composition on different datasets
         - Use of quanTIseq and MCPcounter methods
         - Considering only deconvolution MCPcounter results, for the treatment status (pre/post) and the response (responder/non-responder), then performing a wilcoxon test and changes, and adjusted p-values (FDR) are used to identify Cell types
         - Summarizing here the results of deconvolution analysis by dataset with heatmaps
     - Transcriptomics
     
-  - Machine Learning methods to categorize the responder patients in oncology
-     - Use of tidymodels packages
-     - Use of different methods such as:
+* Machine Learning methods to categorize the responder patients in oncology
+    - Use of tidymodels packages
+    - Use of different methods such as:
         - Random Forests
         - XGBoost
         - Logistic model
@@ -105,19 +108,19 @@ I am supporting the biomarker team of a pharmaceutical global company for early 
     - Cross-validation and bootstrap approaches
     - Applied on mutation, clinical and PK datasets
     
-  - Upstream stages:
+  * Upstream stages:
      - Presentation of survival analysis
      - Presentation of tidymodels package
      - Presentation of stacking methods
 
-  - Method comparison:
+* Method comparison:
      - Deconvolution methods for the bulk RNA-seq and micro-array datasets
    
- - Data analysis: Cytokines, RNA-seq, microarrays
+* Data analysis: Cytokines, RNA-seq, microarrays
 
 * TECHNICAL ENVIRONMENT: R
 
-* Success
+## Success
    - Deliverables: Rmarkdow reports, ppt presentation, RShiny application
    - Successfully supported preclinical development phase:
       - Oncology - Solid Tumors: Anti-NKG2A
