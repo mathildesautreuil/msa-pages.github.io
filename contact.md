@@ -5,8 +5,7 @@ title: Contact
 
 <!---<div class="text-center">  <h3>  Contact</h3>  </div>--->
 
-    <br/>
-    <br/><br/><br/>
+
 
 Mathilde SAUTREUIL  <br>
 BIOMARKER BIOSTATISTICS  <br>
@@ -15,14 +14,7 @@ BIOMARKER BIOSTATISTICS  <br>
 1 Broadway, Cambridge, MA 02142, USA  <br>
 www.efor-group.com<br>
 
-  <br/>
 
-  <br/><br/>
-
-
-     <br/>
-        <br/>
-	
 
 
 
