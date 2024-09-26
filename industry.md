@@ -3,11 +3,14 @@ layout: page
 ---
 
 <div class="text-center">
-  <h1>  Research</h1>
+  <h1>  Experiences in Industry </h1>
     </div>
 
 
-### SANOFI | 12 months | Biomarker statistician
+<div class="text-center">
+  <h2>  SANOFI | 12 months | Biomarker statistician </h2>
+    </div>
+
 
 I am supporting the biomarker team of a pharmaceutical global company for early phase development.
 
@@ -56,7 +59,9 @@ I am supporting the biomarker team of a pharmaceutical global company for early 
 
 
 
-### SERVIER | 18 months | Biomarker Biostatistician and App developer
+<div class="text-center">
+  <h2>  SERVIER | 18 months | Biomarker Biostatistician and App developer </h2>
+    </div>
 
 I am supporting the biomarker team of a pharmaceutical global company for early phase development.
 
