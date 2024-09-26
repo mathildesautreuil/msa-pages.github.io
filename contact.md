@@ -5,8 +5,6 @@ title: Contact
 
 <!---<div class="text-center">  <h3>  Contact</h3>  </div>--->
 
-<div class="text-left">
-
     <br/>
     <br/><br/><br/>
 
@@ -25,7 +23,7 @@ www.efor-group.com<br>
      <br/>
         <br/>
 	
-</div>
+
 
 
 
