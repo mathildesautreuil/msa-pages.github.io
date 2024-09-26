@@ -22,7 +22,8 @@ avatar: "/img/photo_modif.jfif"
 
 # Custom navigation links
 navbar-links:
-  Research: "research"
+  Industry: "industry"
+  Research: "research/"
   Softwares: "software/"
   Teaching: "teaching/"
   Contact: "contact/"
