@@ -61,6 +61,8 @@ I am supporting the biomarker team of a pharmaceutical global company for early 
 
 
 --------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
 
 <div class="text-center">
   <h3>  SERVIER | 18 months | Biomarker Biostatistician and App developer </h3>
@@ -108,8 +110,8 @@ I am supporting the biomarker team of a pharmaceutical global company for early 
         - Stacking models
     - Cross-validation and bootstrap approaches
     - Applied on mutation, clinical and PK datasets
-    
-  * Upstream stages:
+
+* Upstream stages:
      - Presentation of survival analysis
      - Presentation of tidymodels package
      - Presentation of stacking methods
