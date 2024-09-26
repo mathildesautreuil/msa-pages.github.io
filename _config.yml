@@ -15,13 +15,11 @@ theme: minima
 
 # url is the website domain URL without a trailing slash
 #url: "https://example.com"
-
-# baseurl should be an empty string
 #baseurl: ""
 
 # --- Navigation bar options --- #
 
-# List of links in the navigation bar
+# Custom navigation links
 navbar-links:
   Research: "research"
   Softwares: "software/"
@@ -50,7 +48,6 @@ google_analytics: "mathilde sautreuil"
 # Excerpt Word Length
 excerpt_length: 50
 
-# Character used to separate site title and description in HTML document title
 title-separator: "-"
 
 # Ruby Date Format
