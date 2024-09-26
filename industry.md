@@ -127,4 +127,3 @@ I am supporting the biomarker team of a pharmaceutical global company for early 
       - BCL-2 inhibitor + Mcl1 inhibitor (S64315) - S65487 - Acute Myeloid Leukemia
       - Autoimmune disease
 
-
