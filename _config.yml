@@ -6,12 +6,14 @@ title: Home
 # Short description of your site
 description: Professional webpage
 
-# Use Cayman theme
-theme: cayman
+# Use Minima theme
+theme: minima
 
 # --- Local development options ---
-# Uncomment and modify if you host locally or need custom URL configurations
+# If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
+# *** If you're not sure what this means, leave this section as it is ***
 
+# url is the website domain URL without a trailing slash
 #url: "https://example.com"
 #baseurl: ""
 
@@ -26,10 +28,9 @@ navbar-links:
 
 # --- Footer options --- #
 
-# Author name to show in the footer
 author: Mathilde Sautreuil
 
-# Social network links (Cayman theme doesn't display them by default)
+# Social network links
 social-network-links:
   email: "mathilde.sautreuil@gmail.com"
   github: mathildesautreuil
@@ -47,7 +48,6 @@ google_analytics: "mathilde sautreuil"
 # Excerpt Word Length
 excerpt_length: 50
 
-# Character used to separate site title and description in the HTML document title
 title-separator: "-"
 
 # Ruby Date Format
